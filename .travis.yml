@@ -1,0 +1,18 @@
+language: php
+sudo: false
+dist: trusty
+
+php:
+  - 7.1
+
+cache:
+  directories:
+    - vendor
+    - $HOME/.composer/cache
+
+before_script:
+  - composer install --no-interaction
+
+script:
+  - composer validate --strict
+  - vendor/bin/phpunit --coverage-text
