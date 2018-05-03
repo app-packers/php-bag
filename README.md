@@ -5,7 +5,7 @@
 [![Total Downloads](https://poser.pugx.org/app-packers/php-bag/downloads)](https://packagist.org/packages/app-packers/php-bag)
 [![Latest Unstable Version](https://poser.pugx.org/app-packers/php-bag/v/unstable)](https://packagist.org/packages/app-packers/php-bag)
 [![License](https://poser.pugx.org/app-packers/php-bag/license)](https://packagist.org/packages/app-packers/php-bag)
-[![Style Status](https://styleci.io/repos/132044558/shield?branch=master&style=flat)](https://styleci.io/repos/132044558)
+[![Style Status](https://styleci.io/repos/132051217/shield?branch=master&style=flat)](https://styleci.io/repos/132051217)
 
 PHP-BAG incorporates an easy to use package for retrieving address information from Basisregistraties Adressen en Gebouwen (BAG) into your vanilla PHP project.
 
