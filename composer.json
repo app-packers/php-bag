@@ -1,0 +1,37 @@
+{
+  "name": "app-packers/php-bag",
+  "description": "Vanilla PHP package for BAG (Basisregistraties Adressen en Gebouwen) from the Kadaster.",
+  "type": "library",
+  "keywords": [
+    "bag",
+    "Basisregistraties Adressen en Gebouwen",
+    "postcode"
+  ],
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Stefan Jongejan",
+      "email": "stefan@app-packers.com",
+      "role": "Creator"
+    },
+    {
+      "name": "Fabian de Leander",
+      "email": "fabian@app-packers.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "guzzlehttp/guzzle": "^6.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "AppPackers\\Bag\\": "src"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
