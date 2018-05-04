@@ -1,6 +1,6 @@
 # PHP-BAG
 
-[![Build Status](https://api.travis-ci.com/app-packers/php-bag.svg?branch=master)](https://travis-ci.com/app-packers/php-bag)
+[![Build Status](https://api.travis-ci.org/app-packers/php-bag.svg?branch=master)](https://travis-ci.org/app-packers/php-bag)
 [![Latest Stable Version](https://poser.pugx.org/app-packers/php-bag/v/stable)](https://packagist.org/packages/app-packers/php-bag)
 [![Total Downloads](https://poser.pugx.org/app-packers/php-bag/downloads)](https://packagist.org/packages/app-packers/php-bag)
 [![Latest Unstable Version](https://poser.pugx.org/app-packers/php-bag/v/unstable)](https://packagist.org/packages/app-packers/php-bag)
