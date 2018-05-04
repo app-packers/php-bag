@@ -21,7 +21,7 @@ Add PHP-BAG to your [Composer](https://getcomposer.org/) file via the `composer 
 
 Or add it to `composer.json` manually:
 
-    "app-packers/php-bag": "0.1.0"
+    "app-packers/php-bag": "1.0.0"
     
 ## Usage
 
